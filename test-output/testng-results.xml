@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-15T12:42:38 TRT" name="DynamicSuite" finished-at="2025-05-15T12:42:44 TRT" duration-ms="6348">
+    <groups>
+    </groups>
+    <test started-at="2025-05-15T12:42:38 TRT" name="Tests on chrome" finished-at="2025-05-15T12:42:44 TRT" duration-ms="6348">
+      <class name="sample.SampleTest">
+        <test-method is-config="true" signature="setupReportSuite()[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:38 TRT" name="setupReportSuite" finished-at="2025-05-15T12:42:38 TRT" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReportSuite -->
+        <test-method is-config="true" signature="setupDriver(java.lang.String)[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:38 TRT" name="setupDriver" finished-at="2025-05-15T12:42:43 TRT" duration-ms="5388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:43 TRT" name="startTest" finished-at="2025-05-15T12:42:43 TRT" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sample.SampleTest.testHomePageLoadsSuccessfully()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:43 TRT" name="setUp" finished-at="2025-05-15T12:42:43 TRT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHomePageLoadsSuccessfully()[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:43 TRT" name="testHomePageLoadsSuccessfully" finished-at="2025-05-15T12:42:43 TRT" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageLoadsSuccessfully -->
+        <test-method is-config="true" signature="evaluateTestResult(org.testng.ITestResult)[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:43 TRT" name="evaluateTestResult" finished-at="2025-05-15T12:42:43 TRT" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testHomePageLoadsSuccessfully status=SUCCESS method=SampleTest.testHomePageLoadsSuccessfully()[pri:0, instance:sample.SampleTest@1b85a0bf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- evaluateTestResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:43 TRT" name="startTest" finished-at="2025-05-15T12:42:43 TRT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sample.SampleTest.testHomePageTitleSuccessfully()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:43 TRT" name="setUp" finished-at="2025-05-15T12:42:43 TRT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHomePageTitleSuccessfully()[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:43 TRT" name="testHomePageTitleSuccessfully" finished-at="2025-05-15T12:42:43 TRT" duration-ms="12" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [HomePageExpected.EXPECTED_TITLE] but found [Automation Exercise]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [HomePageExpected.EXPECTED_TITLE] but found [Automation Exercise]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at sample.SampleTest.testHomePageTitleSuccessfully(SampleTest.java:35)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageTitleSuccessfully -->
+        <test-method is-config="true" signature="evaluateTestResult(org.testng.ITestResult)[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:43 TRT" name="evaluateTestResult" finished-at="2025-05-15T12:42:44 TRT" duration-ms="511" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testHomePageTitleSuccessfully status=FAILURE method=SampleTest.testHomePageTitleSuccessfully()[pri:0, instance:sample.SampleTest@1b85a0bf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- evaluateTestResult -->
+        <test-method is-config="true" signature="tearDownDriver()[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:44 TRT" name="tearDownDriver" finished-at="2025-05-15T12:42:44 TRT" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownDriver -->
+        <test-method is-config="true" signature="flushReportSuite()[pri:0, instance:sample.SampleTest@1b85a0bf]" started-at="2025-05-15T12:42:44 TRT" name="flushReportSuite" finished-at="2025-05-15T12:42:44 TRT" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReportSuite -->
+      </class> <!-- sample.SampleTest -->
+    </test> <!-- Tests on chrome -->
+  </suite> <!-- DynamicSuite -->
+</testng-results>
