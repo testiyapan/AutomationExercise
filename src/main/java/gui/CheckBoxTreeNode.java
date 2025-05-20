@@ -17,7 +17,6 @@ public class CheckBoxTreeNode extends DefaultMutableTreeNode {
     public void setSelected(boolean selected) {
         this.selected = selected;
 
-        // Alt düğümleri de etkiler
         if (children != null) {
             for (Object obj : children) {
                 ((CheckBoxTreeNode) obj).setSelected(selected);

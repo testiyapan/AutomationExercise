@@ -1,4 +1,3 @@
-// interfaces/IHomePage.java
 package interfaces;
 
 public interface IHomePage {

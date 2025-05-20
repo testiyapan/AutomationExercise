@@ -50,7 +50,6 @@ public class BaseTest {
         new File(allureResultPath).mkdirs();
         System.setProperty("allure.results.directory", allureResultPath);
 
-        // ExtentReporter başlat
         if (extent == null) {
             spark = new ExtentSparkReporter(extentReportDir + "report-" + timestamp + ".html");
             extent = new ExtentReports();
@@ -165,7 +164,6 @@ public class BaseTest {
             }
             File dest = new File(screenshotDir, testName + ".png");
             FileUtils.copyFile(screenshot, dest);
-//            testReport.get().addScreenCaptureFromPath(dest.getAbsolutePath());
             return dest;
         } catch (IOException e) {
             logger.error("Error while taking screenshot", e);

@@ -47,7 +47,6 @@ public class TestGuiLauncher {
         treeScrollPane.setPreferredSize(new Dimension(400, 600));
         frame.add(treeScrollPane, BorderLayout.WEST);
 
-        // Sağ panel
         JPanel rightPanel = new JPanel();
         rightPanel.setLayout(new BoxLayout(rightPanel, BoxLayout.Y_AXIS));
 
