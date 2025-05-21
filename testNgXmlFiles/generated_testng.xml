@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="DynamicSuite" parallel="tests" thread-count="2">
+<suite name="DynamicSuite" parallel="tests" thread-count="1">
   <test name="Tests on chrome">
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="HomePageTest"/>
       <class name="sample.SampleTest"/>
     </classes>
   </test>
