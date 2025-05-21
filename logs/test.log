@@ -1,0 +1,1232 @@
+2025-05-14 12:30:39 [main] INFO  base.BaseTest - Starting test: testHomePageLoadsSuccessfully
+2025-05-14 12:30:41 [main] INFO  base.BaseTest - Using default URL.
+2025-05-14 12:30:45 [main] INFO  base.BaseTest - Test completed successfully: testHomePageLoadsSuccessfully
+2025-05-14 12:30:45 [main] INFO  base.BaseTest - Closing WebDriver...
+2025-05-14 12:30:45 [main] INFO  base.BaseTest - Starting test: testHomePageTitleSuccessfully
+2025-05-14 12:30:46 [main] INFO  base.BaseTest - Using default URL.
+2025-05-14 12:30:49 [main] INFO  base.BaseTest - Test completed successfully: testHomePageTitleSuccessfully
+2025-05-14 12:30:49 [main] INFO  base.BaseTest - Closing WebDriver...
+2025-05-14 12:30:49 [main] INFO  base.BaseTest - Starting test: testNavigationMenuIsVisible
+2025-05-14 12:30:50 [main] INFO  base.BaseTest - Using default URL.
+2025-05-14 12:30:54 [main] INFO  base.BaseTest - Test completed successfully: testNavigationMenuIsVisible
+2025-05-14 12:30:54 [main] INFO  base.BaseTest - Closing WebDriver...
+2025-05-14 12:40:46 [main] INFO  base.BaseTest - Starting test setup for browser: chrome
+2025-05-14 12:40:48 [main] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 12:45:39 [main] INFO  base.BaseTest - Starting test setup for browser: chrome
+2025-05-14 12:45:41 [main] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 12:45:44 [main] INFO  base.BaseTest - Test completed successfully: testHomePageLoadsSuccessfully
+2025-05-14 12:45:44 [main] INFO  base.BaseTest - Test completed successfully: testHomePageTitleSuccessfully
+2025-05-14 12:45:44 [main] INFO  base.BaseTest - Test completed successfully: testNavigationMenuIsVisible
+2025-05-14 12:45:44 [main] INFO  base.BaseTest - Closing WebDriver...
+2025-05-14 12:48:39 [main] INFO  base.BaseTest - Starting test setup for browser: chrome
+2025-05-14 12:48:41 [main] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 12:48:44 [main] INFO  base.BaseTest - Test completed successfully: testHomePageLoadsSuccessfully
+2025-05-14 12:48:44 [main] INFO  base.BaseTest - Test completed successfully: testHomePageTitleSuccessfully
+2025-05-14 12:48:44 [main] INFO  base.BaseTest - Test completed successfully: testNavigationMenuIsVisible
+2025-05-14 12:48:44 [main] INFO  base.BaseTest - Closing WebDriver...
+2025-05-14 12:49:21 [main] INFO  base.BaseTest - Starting test setup for browser: chrome
+2025-05-14 12:49:23 [main] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 12:49:25 [main] INFO  base.BaseTest - Test completed successfully: testHomePageLoadsSuccessfully
+2025-05-14 12:49:25 [main] INFO  base.BaseTest - Test completed successfully: testHomePageTitleSuccessfully
+2025-05-14 12:49:25 [main] INFO  base.BaseTest - Test completed successfully: testNavigationMenuIsVisible
+2025-05-14 12:49:25 [main] INFO  base.BaseTest - Closing WebDriver...
+2025-05-14 12:56:40 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 12:56:40 [main] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 12:56:42 [main] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 12:56:50 [main] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 12:56:50 [main] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 12:56:50 [main] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 12:56:50 [main] INFO  base.BaseTest - Closing WebDriver...
+2025-05-14 12:56:51 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 13:05:11 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 13:05:11 [TestNG-tests-3] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 13:05:11 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 13:05:11 [TestNG-tests-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 13:05:20 [TestNG-tests-3] INFO  utils.DriverFactory - EdgeDriver başlatıldı
+2025-05-14 13:05:20 [TestNG-tests-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:05:22 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:05:22 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:05:23 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:05:23 [TestNG-tests-3] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:05:24 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 13:07:26 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 13:07:26 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 13:07:26 [TestNG-tests-3] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 13:07:26 [TestNG-tests-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 13:07:28 [TestNG-tests-3] INFO  utils.DriverFactory - EdgeDriver başlatıldı
+2025-05-14 13:07:28 [TestNG-tests-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:07:30 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:07:30 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:07:30 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:07:31 [TestNG-tests-3] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:07:31 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 13:09:15 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 13:09:15 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 13:09:15 [TestNG-tests-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 13:09:15 [TestNG-tests-3] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 13:09:17 [TestNG-tests-1] INFO  utils.DriverFactory - ChromeDriver başlatıldı
+2025-05-14 13:09:17 [TestNG-tests-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:09:20 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:09:20 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:09:20 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:09:20 [TestNG-tests-1] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:09:23 [TestNG-tests-3] INFO  utils.DriverFactory - EdgeDriver başlatıldı
+2025-05-14 13:09:23 [TestNG-tests-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:09:27 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:09:27 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:09:27 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:09:27 [TestNG-tests-3] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:09:27 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 13:13:52 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 13:13:52 [TestNG-tests-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 13:13:52 [TestNG-tests-3] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 13:13:52 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 13:13:54 [TestNG-tests-1] INFO  utils.DriverFactory - ChromeDriver başlatıldı
+2025-05-14 13:13:54 [TestNG-tests-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:13:56 [TestNG-tests-2] INFO  utils.DriverFactory - FirefoxDriver başlatıldı
+2025-05-14 13:13:56 [TestNG-tests-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:13:57 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:13:57 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:13:57 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:13:57 [TestNG-tests-1] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:13:59 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:13:59 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:13:59 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:13:59 [TestNG-tests-2] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:14:02 [TestNG-tests-3] INFO  utils.DriverFactory - EdgeDriver başlatıldı
+2025-05-14 13:14:02 [TestNG-tests-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:14:04 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:14:04 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:14:05 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:14:05 [TestNG-tests-3] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:14:05 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 13:20:46 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 13:20:46 [TestNG-tests-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 13:20:46 [TestNG-tests-3] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 13:20:46 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 13:20:48 [TestNG-tests-1] INFO  utils.DriverFactory - ChromeDriver başlatıldı
+2025-05-14 13:20:48 [TestNG-tests-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:20:49 [TestNG-tests-2] INFO  utils.DriverFactory - FirefoxDriver başlatıldı
+2025-05-14 13:20:50 [TestNG-tests-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:20:51 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:20:51 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:20:51 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:20:52 [TestNG-tests-1] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:20:53 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:20:53 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:20:53 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:20:54 [TestNG-tests-3] INFO  utils.DriverFactory - EdgeDriver başlatıldı
+2025-05-14 13:20:54 [TestNG-tests-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:20:54 [TestNG-tests-2] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:20:57 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:20:57 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:20:57 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:20:57 [TestNG-tests-3] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:20:58 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 13:26:30 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 13:26:30 [TestNG-tests-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 13:26:30 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 13:26:30 [TestNG-tests-3] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 13:26:32 [TestNG-tests-1] INFO  utils.DriverFactory - ChromeDriver başlatıldı
+2025-05-14 13:26:32 [TestNG-tests-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:26:34 [TestNG-tests-2] INFO  utils.DriverFactory - FirefoxDriver başlatıldı
+2025-05-14 13:26:34 [TestNG-tests-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:26:35 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:26:35 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:26:35 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:26:35 [TestNG-tests-1] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:26:37 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:26:37 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:26:37 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:26:38 [TestNG-tests-2] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:26:38 [TestNG-tests-3] INFO  utils.DriverFactory - EdgeDriver başlatıldı
+2025-05-14 13:26:38 [TestNG-tests-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:26:40 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:26:40 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:26:41 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:26:41 [TestNG-tests-3] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:26:41 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 13:28:05 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-05-14 13:28:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\testng.xml
+
+2025-05-14 13:28:05 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 13:28:05 [TestNG-tests-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 13:28:05 [TestNG-tests-3] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 13:28:05 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 13:28:05 [TestNG-tests-1] WARN  io.github.bonigarcia.wdm.WebDriverManager - Exception deleting driver cache at C:\Users\meta\.cache\selenium
+org.apache.commons.io.IOExceptionList: C:\Users\meta\.cache\selenium
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:331) ~[commons-io-2.11.0.jar:2.11.0]
+	at io.github.bonigarcia.wdm.WebDriverManager.clearDriverCache(WebDriverManager.java:824) ~[webdrivermanager-5.7.0.jar:?]
+	at utils.DriverFactory.setDriver(DriverFactory.java:49) ~[classes/:?]
+	at base.BaseTest.setupDriver(BaseTest.java:54) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.9.0.jar:7.9.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:819) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.TestRunner.run(TestRunner.java:619) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58) ~[testng-7.9.0.jar:7.9.0]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.io.IOException: Cannot delete file: C:\Users\meta\.cache\selenium\chromedriver
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1344) ~[commons-io-2.11.0.jar:2.11.0]
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:324) ~[commons-io-2.11.0.jar:2.11.0]
+	... 22 more
+Caused by: java.nio.file.AccessDeniedException: C:\Users\meta\.cache\selenium\chromedriver\win64\136.0.7103.92\chromedriver.exe
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:273) ~[?:?]
+	at sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(AbstractFileSystemProvider.java:109) ~[?:?]
+	at java.nio.file.Files.deleteIfExists(Files.java:1191) ~[?:?]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:161) ~[commons-io-2.11.0.jar:2.11.0]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:37) ~[commons-io-2.11.0.jar:2.11.0]
+	at java.nio.file.Files.walkFileTree(Files.java:2786) ~[?:?]
+	at java.nio.file.Files.walkFileTree(Files.java:2857) ~[?:?]
+	at org.apache.commons.io.file.PathUtils.visitFileTree(PathUtils.java:971) ~[commons-io-2.11.0.jar:2.11.0]
+	at org.apache.commons.io.file.PathUtils.deleteDirectory(PathUtils.java:434) ~[commons-io-2.11.0.jar:2.11.0]
+	at org.apache.commons.io.file.PathUtils.delete(PathUtils.java:391) ~[commons-io-2.11.0.jar:2.11.0]
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1341) ~[commons-io-2.11.0.jar:2.11.0]
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:324) ~[commons-io-2.11.0.jar:2.11.0]
+	... 22 more
+2025-05-14 13:28:06 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 136.0.3240.64 (resolved driver for Edge 136)
+2025-05-14 13:28:06 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-05-14 13:28:06 [TestNG-tests-2] WARN  io.github.bonigarcia.wdm.WebDriverManager - Exception getting geckodriver version from https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/geckodriver/geckodriver-support.json
+java.lang.NumberFormatException: Cannot parse null string
+	at java.lang.Integer.parseInt(Integer.java:624) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at io.github.bonigarcia.wdm.managers.FirefoxDriverManager.getDriverVersionFromRepository(FirefoxDriverManager.java:140) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.managers.FirefoxDriverManager.getLatestDriverVersionFromRepository(FirefoxDriverManager.java:115) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:1248) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1154) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:426) ~[webdrivermanager-5.7.0.jar:?]
+	at utils.DriverFactory.setDriver(DriverFactory.java:32) ~[classes/:?]
+	at base.BaseTest.setupDriver(BaseTest.java:54) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.9.0.jar:7.9.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:819) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.TestRunner.run(TestRunner.java:619) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58) ~[testng-7.9.0.jar:7.9.0]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-14 13:28:06 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+2025-05-14 13:28:06 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.92 (resolved driver for Chrome 136)
+2025-05-14 13:28:06 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\meta\.cache\selenium\chromedriver\win64\136.0.7103.92\chromedriver.exe
+2025-05-14 13:28:06 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2025-05-14 13:28:06 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/136.0.3240.64/edgedriver_win64.zip
+2025-05-14 13:28:06 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file geckodriver-v0.36.0-win64.zip
+2025-05-14 13:28:06 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\meta\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2025-05-14 13:28:07 [TestNG-tests-1] INFO  utils.DriverFactory - ChromeDriver başlatıldı
+2025-05-14 13:28:07 [TestNG-tests-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:28:08 [TestNG-tests-2] INFO  utils.DriverFactory - FirefoxDriver başlatıldı
+2025-05-14 13:28:09 [TestNG-tests-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:28:10 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:28:10 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:28:10 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:28:10 [TestNG-tests-1] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:28:12 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:28:12 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:28:12 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:28:13 [TestNG-tests-2] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:28:13 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file edgedriver_win64.zip
+2025-05-14 13:28:13 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\meta\.cache\selenium\msedgedriver\win64\136.0.3240.64\msedgedriver.exe
+2025-05-14 13:28:14 [TestNG-tests-3] INFO  utils.DriverFactory - EdgeDriver başlatıldı
+2025-05-14 13:28:14 [TestNG-tests-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:28:17 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:28:17 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:28:17 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:28:17 [TestNG-tests-3] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:28:17 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 13:49:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\testng.xml
+
+2025-05-14 13:49:04 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 13:49:04 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 13:49:04 [TestNG-tests-3] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 13:49:04 [TestNG-tests-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 13:49:05 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.92 (resolved driver for Chrome 136)
+2025-05-14 13:49:05 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\meta\.cache\selenium\chromedriver\win64\136.0.7103.92\chromedriver.exe
+2025-05-14 13:49:05 [TestNG-tests-2] WARN  io.github.bonigarcia.wdm.WebDriverManager - Exception getting geckodriver version from https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/geckodriver/geckodriver-support.json
+java.lang.NumberFormatException: Cannot parse null string
+	at java.lang.Integer.parseInt(Integer.java:624) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at io.github.bonigarcia.wdm.managers.FirefoxDriverManager.getDriverVersionFromRepository(FirefoxDriverManager.java:140) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.managers.FirefoxDriverManager.getLatestDriverVersionFromRepository(FirefoxDriverManager.java:115) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:1248) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1154) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:426) ~[webdrivermanager-5.7.0.jar:?]
+	at utils.DriverFactory.setDriver(DriverFactory.java:32) ~[classes/:?]
+	at base.BaseTest.setupDriver(BaseTest.java:54) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.9.0.jar:7.9.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:819) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.TestRunner.run(TestRunner.java:619) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58) ~[testng-7.9.0.jar:7.9.0]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-14 13:49:05 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+2025-05-14 13:49:05 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\meta\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2025-05-14 13:49:06 [TestNG-tests-1] INFO  utils.DriverFactory - ChromeDriver başlatıldı
+2025-05-14 13:49:06 [TestNG-tests-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:49:06 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 136.0.3240.64 (resolved driver for Edge 136)
+2025-05-14 13:49:06 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\meta\.cache\selenium\msedgedriver\win64\136.0.3240.64\msedgedriver.exe
+2025-05-14 13:49:07 [TestNG-tests-3] INFO  utils.DriverFactory - EdgeDriver başlatıldı
+2025-05-14 13:49:07 [TestNG-tests-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:49:07 [TestNG-tests-2] INFO  utils.DriverFactory - FirefoxDriver başlatıldı
+2025-05-14 13:49:08 [TestNG-tests-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 13:49:09 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:49:09 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:49:09 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:49:09 [TestNG-tests-1] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:49:10 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:49:10 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:49:10 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:49:10 [TestNG-tests-3] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:49:10 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 13:49:10 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 13:49:10 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 13:49:11 [TestNG-tests-2] INFO  utils.DriverFactory - WebDriver kapatıldı
+2025-05-14 13:49:11 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 14:30:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\testng.xml
+
+2025-05-14 14:30:22 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 14:30:22 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 14:30:22 [TestNG-tests-3] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 14:30:22 [TestNG-tests-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 14:30:24 [TestNG-tests-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 14:30:24 [TestNG-tests-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 14:30:26 [TestNG-tests-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 14:30:27 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 14:30:27 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 14:30:27 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 14:30:27 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 14:30:27 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 14:30:27 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 14:30:27 [TestNG-tests-1] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 14:30:27 [TestNG-tests-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 14:30:28 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 14:30:28 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 14:30:28 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 14:30:29 [TestNG-tests-2] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 14:30:29 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 14:46:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\testng.xml
+
+2025-05-14 14:46:52 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 14:46:52 [TestNG-tests-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 14:46:52 [TestNG-tests-3] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 14:46:52 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 14:46:54 [TestNG-tests-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 14:46:54 [TestNG-tests-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 14:46:56 [TestNG-tests-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 14:46:57 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 14:46:57 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 14:46:57 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 14:46:57 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 14:46:57 [TestNG-tests-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 14:46:57 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 14:46:57 [TestNG-tests-1] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 14:46:58 [TestNG-tests-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 14:46:59 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 14:46:59 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 14:46:59 [TestNG-tests-2] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 14:46:59 [TestNG-tests-2] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 14:47:00 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 15:26:50 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 15:26:50 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 15:26:52 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 15:26:55 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 15:26:55 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 15:26:55 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 15:26:56 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 15:26:56 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 15:26:58 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 15:27:01 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 15:27:01 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 15:27:01 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 15:27:02 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 15:27:02 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 15:27:06 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 15:27:08 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 15:27:08 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 15:27:09 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 15:27:09 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 15:27:09 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 15:31:51 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 15:31:51 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 15:31:53 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 15:31:58 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 15:31:58 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 15:31:58 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 15:31:58 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 15:31:58 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 15:32:01 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 15:32:03 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 15:32:03 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 15:32:03 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 15:32:04 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 15:32:04 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 15:32:05 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 15:32:09 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 15:32:09 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 15:32:09 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 15:32:09 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 15:32:09 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 15:47:17 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 15:47:17 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 15:47:19 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 15:47:21 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 15:47:21 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 15:47:21 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 15:47:22 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 15:47:22 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 15:47:24 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 15:47:27 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 15:47:27 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 15:47:27 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 15:47:28 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 15:47:28 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 15:47:29 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 15:47:32 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 15:47:32 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 15:47:32 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 15:47:32 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 15:47:32 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 16:02:56 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 16:02:56 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_160256
+2025-05-14 16:02:56 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 16:02:58 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:03:01 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:03:01 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:03:01 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:03:01 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:03:01 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 16:03:04 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:03:06 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:03:06 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:03:06 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:03:07 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:03:07 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 16:03:08 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:03:12 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:03:12 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:03:12 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:03:12 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:03:12 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 16:08:04 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 16:08:04 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_160804
+2025-05-14 16:08:04 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 16:08:06 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:08:08 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:08:08 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:08:09 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:08:09 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:08:09 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 16:08:12 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:08:15 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:08:15 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:08:15 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:08:15 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:08:15 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 16:08:16 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:08:19 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:08:19 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:08:19 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:08:20 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:08:20 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 16:13:46 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 16:13:46 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_161346
+2025-05-14 16:13:46 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 16:13:46 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 16:13:48 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:13:48 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:13:51 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:13:51 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:13:51 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:13:52 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:13:52 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:13:52 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:13:52 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 16:13:52 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 16:13:55 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:13:55 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:13:57 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:13:57 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:13:57 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:13:57 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:13:57 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:13:58 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:13:58 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 16:13:58 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 16:13:59 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:14:00 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:14:01 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:14:01 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:14:03 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:14:03 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:14:03 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:14:03 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:14:04 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 16:14:39 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 16:14:39 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_161439
+2025-05-14 16:14:39 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 16:14:39 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 16:14:41 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:14:41 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:14:44 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:14:44 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:14:44 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:14:44 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:14:44 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:14:44 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:14:44 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 16:14:44 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 16:14:47 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:14:47 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:14:50 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:14:50 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:14:50 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:14:50 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:14:51 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:14:51 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:14:51 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 16:14:51 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 16:14:52 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:14:53 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:14:54 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:14:55 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:14:56 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:14:56 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:14:56 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:14:57 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:14:57 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 16:22:40 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 16:22:40 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_162240
+2025-05-14 16:22:40 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 16:22:40 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 16:22:42 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:22:42 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:22:44 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:22:44 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:22:44 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:22:45 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:22:45 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:22:45 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:22:45 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 16:22:45 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 16:22:48 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:22:48 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:22:50 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:22:50 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:22:50 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:22:50 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:22:51 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:22:51 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:22:51 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 16:22:51 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 16:22:52 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:22:53 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:22:54 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:22:54 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:22:56 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:22:56 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:22:56 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:22:56 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:22:56 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 16:23:31 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 16:23:31 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_162331
+2025-05-14 16:23:31 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 16:23:31 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 16:23:33 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:23:33 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:23:35 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:23:35 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:23:35 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:23:35 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:23:35 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:23:36 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:23:36 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 16:23:36 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 16:23:38 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:23:39 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:23:42 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:23:42 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:23:42 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:23:42 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:23:43 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:23:44 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:23:44 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 16:23:44 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 16:23:44 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:23:46 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 16:23:48 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:23:48 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:23:49 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 16:23:49 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 16:23:49 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 16:23:49 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 16:23:49 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:17:43 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:17:43 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_171743
+2025-05-14 17:17:43 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:17:43 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:17:45 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:17:45 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:17:49 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:17:49 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:17:49 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:17:49 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:17:49 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:17:49 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:17:49 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:17:49 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:17:52 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:17:52 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:17:55 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:17:55 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:17:55 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:17:55 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:17:55 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:17:55 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:17:55 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:17:55 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:17:56 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:17:58 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:17:59 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:18:00 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:18:00 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:18:00 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:18:00 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:18:01 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:18:01 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:20:08 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:20:08 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_172008
+2025-05-14 17:20:08 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:20:08 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:20:10 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:20:10 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:20:13 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:20:13 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:20:13 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:20:13 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:20:13 [AsyncHttpClient-1-6] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-14 17:20:13 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:20:13 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:20:13 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:20:13 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:20:16 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:20:16 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:20:19 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:20:19 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:20:19 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:20:19 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:20:19 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:20:20 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:20:20 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:20:20 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:20:20 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:20:22 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:20:23 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:20:23 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:20:23 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:20:23 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:20:25 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:20:25 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:20:25 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:28:22 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:28:22 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_142822
+2025-05-14 17:28:22 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:28:22 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:28:24 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:28:24 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:28:27 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:28:27 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:28:27 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:28:27 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:28:27 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:28:27 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:28:27 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:28:27 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:28:30 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:28:30 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:28:31 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:28:31 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:28:31 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:28:32 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:28:33 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:28:33 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:28:33 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:28:33 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:28:34 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:28:36 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:28:37 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:28:38 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:28:39 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:28:39 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:28:39 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:28:39 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:28:39 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:29:25 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:29:25 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_142925
+2025-05-14 17:29:25 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:29:25 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:29:27 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:29:27 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:29:29 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:29:29 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:29:30 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:29:30 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:29:30 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:29:30 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:29:30 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:29:30 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:29:32 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:29:32 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:29:35 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:29:35 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:29:35 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:29:35 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:29:36 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:29:36 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:29:36 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:29:36 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:29:37 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:29:38 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:29:39 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:29:40 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:29:41 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:29:41 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:29:41 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:29:41 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:29:41 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:37:01 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:37:01 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_1437
+2025-05-14 17:37:01 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:37:01 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:37:03 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:37:03 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:37:06 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:37:06 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:37:06 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:37:06 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:37:06 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:37:06 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:37:06 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:37:06 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:37:09 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:37:09 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:37:11 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:37:12 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:37:12 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:37:12 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:37:12 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:37:12 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:37:12 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:37:12 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:37:13 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:37:15 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:37:16 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:37:16 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:37:16 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:37:16 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:37:18 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:37:18 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:37:18 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:43:05 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:43:05 [main] INFO  base.BaseTest - Allure results directory: C:\Users\meta\Pictures\workspace\java\AutomationExercise/allure-results/20250514_1743
+2025-05-14 17:43:05 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:43:05 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:43:07 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:43:07 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:43:09 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:43:09 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:43:09 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:43:09 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:43:10 [AsyncHttpClient-1-6] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-14 17:43:10 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:43:10 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:43:10 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:43:10 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:43:12 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:43:12 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:43:15 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:43:15 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:43:15 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:43:15 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:43:16 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:43:16 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:43:16 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:43:16 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:43:17 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:43:18 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:43:20 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:43:20 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:43:20 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:43:21 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:43:21 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:43:21 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:43:21 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:49:40 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:49:40 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_144940
+2025-05-14 17:49:41 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:49:41 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:49:42 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:49:42 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:49:45 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:49:45 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:49:45 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:49:45 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:49:45 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:49:45 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:49:45 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:49:45 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:49:48 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:49:48 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:49:51 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:49:51 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:49:52 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:49:52 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:49:52 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:49:52 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:49:52 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:49:52 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:49:53 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:49:55 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:49:56 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:49:56 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:49:56 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:49:57 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:49:57 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:49:57 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:49:57 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:49:57 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_144940
+2025-05-14 17:50:39 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:50:39 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_175039
+2025-05-14 17:50:39 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:50:39 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:50:41 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:50:41 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:50:43 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:50:44 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:50:44 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:50:44 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:50:44 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:50:44 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:50:44 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:50:44 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:50:47 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:50:47 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:50:49 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:50:49 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:50:50 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:50:50 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:50:50 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:50:50 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:50:50 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:50:50 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:50:51 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:50:51 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:50:54 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:50:54 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:50:54 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:50:54 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:50:56 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:50:56 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:50:57 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:50:57 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_175039
+2025-05-14 17:53:27 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:53:27 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_175327
+2025-05-14 17:53:27 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:53:27 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:53:29 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:53:29 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:53:33 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:53:33 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:53:33 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:53:33 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:53:33 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:53:34 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:53:34 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:53:34 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:53:36 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:53:37 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:53:39 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:53:40 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:53:40 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:53:40 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:53:40 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:53:41 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:53:41 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:53:41 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:53:42 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:53:43 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:53:44 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:53:45 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:53:46 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:53:46 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:53:46 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:53:46 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:53:46 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:53:46 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_175327
+2025-05-14 17:56:26 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:56:26 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_175625
+2025-05-14 17:56:26 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:56:26 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:56:27 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:56:27 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:56:30 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:56:30 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:56:30 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:56:30 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:56:30 [AsyncHttpClient-1-7] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-14 17:56:30 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:56:30 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:56:30 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:56:30 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:56:33 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:56:33 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:56:36 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:56:36 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:56:36 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:56:36 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:56:37 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:56:37 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:56:37 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:56:37 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:56:38 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:56:39 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:56:41 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:56:41 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:56:42 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:56:42 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:56:42 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:56:42 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:56:42 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:56:42 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_175625
+2025-05-14 17:57:01 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 17:57:01 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_175701
+2025-05-14 17:57:01 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:57:01 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 17:57:03 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:57:03 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:57:05 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:57:05 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:57:05 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:57:05 [AsyncHttpClient-1-7] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-14 17:57:05 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:57:06 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:57:06 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:57:06 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:57:06 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 17:57:08 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:57:08 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:57:11 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:57:11 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:57:11 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:57:11 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:57:12 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:57:12 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:57:12 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:57:12 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 17:57:13 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:57:14 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 17:57:15 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:57:16 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:57:17 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 17:57:17 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 17:57:17 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 17:57:17 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 17:57:18 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 17:57:18 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_175701
+2025-05-14 18:02:41 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 18:02:41 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_180241
+2025-05-14 18:02:41 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 18:02:41 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 18:02:43 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:02:43 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:02:45 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:02:45 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:02:45 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:02:45 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:02:45 [AsyncHttpClient-1-6] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-14 18:02:45 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:02:45 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:02:45 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 18:02:45 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 18:02:48 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:02:48 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:02:51 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:02:52 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:02:52 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:02:52 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:02:52 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:02:52 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:02:52 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 18:02:52 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 18:02:53 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:02:55 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:02:56 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:02:56 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:02:56 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:02:56 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:02:57 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:02:57 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:02:58 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 18:02:58 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_180241
+2025-05-14 18:05:06 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 18:05:06 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_180506
+2025-05-14 18:05:06 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 18:05:06 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 18:05:08 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:05:08 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:05:11 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:05:11 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:05:11 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:05:11 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:05:11 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:05:11 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:05:11 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 18:05:11 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 18:05:14 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:05:14 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:05:16 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:05:16 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:05:16 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:05:17 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:05:17 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:05:17 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:05:17 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 18:05:17 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 18:05:18 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:05:20 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:05:21 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:05:21 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:05:21 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:05:21 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:05:22 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:05:22 [TestNG-test-Edge Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:05:22 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 18:05:22 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_180506
+2025-05-14 18:09:41 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 18:09:41 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_180941
+2025-05-14 18:09:41 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 18:09:41 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 18:09:42 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:09:42 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:09:45 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:09:45 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:09:45 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:09:45 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:09:45 [TestNG-test-Chrome Test-2] ERROR base.BaseTest - Test failed: testHomePageTitleSuccessfully
+2025-05-14 18:09:46 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:09:46 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:09:46 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 18:09:46 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 18:09:49 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:09:49 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:09:52 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:09:52 [TestNG-test-Firefox Test-4] ERROR base.BaseTest - Test failed: testHomePageTitleSuccessfully
+2025-05-14 18:09:52 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:09:52 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:09:52 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:09:53 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:09:53 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:09:53 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 18:09:53 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 18:09:54 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:09:56 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:09:57 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:09:57 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:09:57 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:09:58 [TestNG-test-Edge Test-1] ERROR base.BaseTest - Test failed: testHomePageTitleSuccessfully
+2025-05-14 18:09:58 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:09:59 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:09:59 [TestNG-test-Edge Test-1] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:09:59 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 18:09:59 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_180941
+2025-05-14 18:23:56 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 18:23:56 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_182356
+2025-05-14 18:23:56 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 18:23:56 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 18:23:58 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:23:58 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:24:01 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:24:01 [TestNG-test-Chrome Test-4] WARN  base.BaseTest - Test FAILED: testHomePageTitleSuccessfully
+2025-05-14 18:24:01 [TestNG-test-Chrome Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:24:01 [TestNG-test-Chrome Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:24:01 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:24:01 [TestNG-test-Chrome Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:24:02 [TestNG-test-Chrome Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:24:02 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 18:24:02 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Starting driver for browser: firefox
+2025-05-14 18:24:04 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:24:04 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:24:07 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:24:07 [TestNG-test-Firefox Test-4] WARN  base.BaseTest - Test FAILED: testHomePageTitleSuccessfully
+2025-05-14 18:24:08 [TestNG-test-Firefox Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:24:08 [TestNG-test-Firefox Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:24:08 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:24:09 [TestNG-test-Firefox Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:24:09 [TestNG-test-Firefox Test-4] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:24:09 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 18:24:09 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Starting driver for browser: edge
+2025-05-14 18:24:10 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:24:12 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 18:24:13 [TestNG-test-Edge Test-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 18:24:13 [TestNG-test-Edge Test-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:24:13 [TestNG-test-Edge Test-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 18:24:13 [TestNG-test-Edge Test-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:24:14 [TestNG-test-Edge Test-2] WARN  base.BaseTest - Test FAILED: testHomePageTitleSuccessfully
+2025-05-14 18:24:14 [TestNG-test-Edge Test-4] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 18:24:15 [TestNG-test-Edge Test-2] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 18:24:15 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 18:24:15 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_182356
+2025-05-14 23:15:03 [AWT-EventQueue-0] ERROR org.testng.TestNG - No test suite found. Nothing to run
+2025-05-14 23:15:58 [AWT-EventQueue-0] ERROR org.testng.TestNG - No test suite found. Nothing to run
+2025-05-14 23:16:42 [AWT-EventQueue-0] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\generated_testng.xml] otherwise TestNG may fail or not work as expected.
+2025-05-14 23:18:30 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\generated_testng.xml] otherwise TestNG may fail or not work as expected.
+2025-05-14 23:18:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\generated_testng.xml
+
+2025-05-14 23:18:31 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 23:18:31 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_231831
+2025-05-14 23:18:31 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 23:18:37 [TestNG-tests-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 23:18:41 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 23:18:41 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 23:18:41 [TestNG-tests-1] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 23:18:41 [TestNG-tests-1] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 23:18:42 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 23:18:42 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_231831
+2025-05-14 23:21:50 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\generated_testng.xml] otherwise TestNG may fail or not work as expected.
+2025-05-14 23:21:51 [main] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 23:21:51 [main] INFO  base.BaseTest - Allure results directory: allure-results/20250514_232150
+2025-05-14 23:21:51 [TestNG-test-Tests on chrome-1] INFO  base.BaseTest - Starting driver for browser: chrome
+2025-05-14 23:21:54 [TestNG-test-Tests on chrome-1] INFO  base.BaseTest - Opening URL: https://www.automationexercise.com/
+2025-05-14 23:21:57 [TestNG-test-Tests on chrome-1] INFO  base.BaseTest - Test passed: testHomePageLoadsSuccessfully
+2025-05-14 23:21:57 [TestNG-test-Tests on chrome-2] INFO  base.BaseTest - Test passed: testHomePageTitleSuccessfully
+2025-05-14 23:21:57 [TestNG-test-Tests on chrome-3] INFO  base.BaseTest - Test passed: testNavigationMenuIsVisible
+2025-05-14 23:21:57 [TestNG-test-Tests on chrome-3] INFO  base.BaseTest - WebDriver kapatıldı
+2025-05-14 23:21:58 [main] INFO  base.BaseTest - Extent report flushed.
+2025-05-14 23:21:58 [main] INFO  base.BaseTest - Boş allure-results klasörü silindi: C:\Users\meta\Pictures\workspace\java\AutomationExercise\allure-results\20250514_232150
+2025-05-14 23:23:10 [AWT-EventQueue-0] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\generated_testng.xml] otherwise TestNG may fail or not work as expected.
+2025-05-14 23:24:28 [AWT-EventQueue-0] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\generated_testng.xml] otherwise TestNG may fail or not work as expected.
+2025-05-14 23:26:16 [AWT-EventQueue-0] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\generated_testng.xml] otherwise TestNG may fail or not work as expected.
+2025-05-14 23:33:53 [AWT-EventQueue-0] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\generated_testng.xml] otherwise TestNG may fail or not work as expected.
+2025-05-14 23:33:53 [AWT-EventQueue-0] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\meta\Pictures\workspace\java\AutomationExercise\testNgXmlFiles\generated_testng.xml
+
+2025-05-14 23:33:53 [AWT-EventQueue-0] INFO  base.BaseTest - Extent report initialized.
+2025-05-14 23:33:53 [AWT-EventQueue-0] INFO  base.BaseTest - Allure results directory: allure-results/20250514_233353
+2025-05-14 23:33:53 [TestNG-tests-1] INFO  base.BaseTest - Starting driver for browser: chrome
