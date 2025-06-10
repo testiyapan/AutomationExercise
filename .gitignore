@@ -2,11 +2,11 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-allure-results/
-screenshots/
-test-output/
-reports/
-testNgXmlFiles/
+#allure-results/
+#screenshots/
+#test-output/
+#reports/
+#testNgXmlFiles/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
